@@ -1,2 +1,7 @@
 # Image-captioning-dataset
-Image captioning dataset for description of construction activities in the construction industry
+![construction_activities_images(2)](https://github.com/user-attachments/assets/1b716638-45dc-48b3-abcf-4acaba6bba59)
+## Introduction
+The data set is an image captioning data set with complex construction activity scenes as the background. The dataset collected a total of 13,119 photos, recruited 15 civil engineering students to manually annotate the pictures, and generated 65594 descriptions in total, including activity descriptions of construction machinery and construction workers, and identification descriptions of unsafe behaviors of workers on construction sites. It involves earthworks, rebar work and masonry.
+The difference between this data set and other published data sets is mainly that: (1) in terms of the type of images, this data set includes not only the construction activities of machinery, but also the construction activities of workers. The effectiveness of the image captioning algorithm has been validated on two of the most common types of research objects in the field of architecture. (2) In terms of image description, this study has carried out a detailed division of workers' safety equipment to achieve the purpose of unsafe behavior detection. (3) In terms of data set construction, all the data sets in this study were collected offline to ensure the authenticity and validity of the data, and the amount of data was larger. (4) At the algorithmic level, this study verifies the effect of the newer image captioning model on the data set in the architectural field, and compares it with other more classical image captioning models.
+## Download the Dataset
+[Download link](url)
