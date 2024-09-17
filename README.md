@@ -10,6 +10,7 @@ The key differences between this dataset and others are: (1) It includes both ma
 
 ## License
 (1) The image captioning dataset is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) to promote the open use of the dataset and future improvements.
+
 (2) Without permission, the dataset should only be used for non-commercial scientific research purposes.
 
 ## Download the Dataset
