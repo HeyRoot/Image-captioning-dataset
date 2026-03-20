@@ -14,6 +14,5 @@ The key differences between this dataset and others are: (1) It includes both ma
 (2) Without permission, the dataset should only be used for non-commercial scientific research purposes.
 
 ## Download the Dataset
-The dataset will be made available for download after the paper is made public
-[Download link]([https://drive.google.com/drive/folders/13_6werkXjRmWZhqXK_MMuk8yEv6gKy0w?usp=
-sharing])
+The dataset is now publicly available.
+[Download link](https://drive.google.com/drive/folders/13_6werkXjRmWZhqXK_MMuk8yEv6gKy0w?usp= sharing)
